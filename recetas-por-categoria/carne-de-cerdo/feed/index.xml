@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Carne de Cerdo &#8211; Carnes Santacruz</title>
-	<atom:link href="/recetas-por-categoria/carne-de-cerdo/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Thu, 19 Oct 2023 19:26:41 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/05/cropped-santacruzlogo-1-32x32.png</url>
+	<url>./../../../wp-content/uploads/2016/05/cropped-santacruzlogo-1-32x32.png</url>
 	<title>Carne de Cerdo &#8211; Carnes Santacruz</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>PERNIL DE CERDO AL HORNO</title>
-		<link>/recetas/pernil-de-cerdo-al-horno/</link>
+		<link>./../../../recetas/pernil-de-cerdo-al-horno/index.html</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Wed, 03 Mar 2021 13:40:12 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2881</guid>
 
 					<description><![CDATA[1 pernil de cerdo completo de Carnes Santacruz ½ taza de salsa soya 1/3 taza de salsa negra o inglesa 2 cucharadas de aceite 2 latas de cerveza oscura 2 ajos finamente picados 4 tallos de cebollas largas 1 pimentón 1 cucharada de orégano 1 cucharada de comino 4 cucharadas de panela en polvo Con [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img fetchpriority="high" width="1280" height="720" src="/wp-content/uploads/2021/03/pernil-de-cerdo-al-horno-1-1280x720-2.png" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="/wp-content/uploads/2021/03/pernil-de-cerdo-al-horno-1-1280x720-2.png 1280w, /wp-content/uploads/2021/03/pernil-de-cerdo-al-horno-1-1280x720-2-300x169.png 300w, /wp-content/uploads/2021/03/pernil-de-cerdo-al-horno-1-1280x720-2-1024x576.png 1024w, /wp-content/uploads/2021/03/pernil-de-cerdo-al-horno-1-1280x720-2-768x432.png 768w, /wp-content/uploads/2021/03/pernil-de-cerdo-al-horno-1-1280x720-2-1000x563.png 1000w" sizes="(max-width: 1280px) 100vw, 1280px" /></p></p>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" width="1280" height="720" src="./../../../wp-content/uploads/2021/03/pernil-de-cerdo-al-horno-1-1280x720-2.png" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2021/03/pernil-de-cerdo-al-horno-1-1280x720-2.png 1280w, ./../../../wp-content/uploads/2021/03/pernil-de-cerdo-al-horno-1-1280x720-2-300x169.png 300w, ./../../../wp-content/uploads/2021/03/pernil-de-cerdo-al-horno-1-1280x720-2-1024x576.png 1024w, ./../../../wp-content/uploads/2021/03/pernil-de-cerdo-al-horno-1-1280x720-2-768x432.png 768w, ./../../../wp-content/uploads/2021/03/pernil-de-cerdo-al-horno-1-1280x720-2-1000x563.png 1000w" sizes="(max-width: 1280px) 100vw, 1280px" /></p></p>
 <p>1 pernil de cerdo completo de Carnes Santacruz<br />
 ½ taza de salsa soya<br />
 1/3 taza de salsa negra o inglesa<br />
@@ -61,14 +61,14 @@ Poner el pernil en una bandeja y hornar a 180 grados por 5 horas bañando el cer
 			</item>
 		<item>
 		<title>ARROZ CALDOSO DE CERDO</title>
-		<link>/recetas/arroz-caldoso-de-cerdo/</link>
+		<link>./../../../recetas/arroz-caldoso-de-cerdo/index.html</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Wed, 03 Mar 2021 13:37:58 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2879</guid>
 
 					<description><![CDATA[2 tazas de arróz blanco previamente lavado y escurrido 1/2 costillar de cerdo de Carnes Santacruz 2 chorizos cortados en rodajas 1 pimentón rojo finamente picado 2 tomates finamente picados 2 zanahorias finamente picados 2 dientes de ajo finamente picados 5 tazas de fondo de verduras 1 rama de romero 1 rama de tomillo 1 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1239" height="697" src="/wp-content/uploads/2021/03/1239x697.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="/wp-content/uploads/2021/03/1239x697.jpg 1239w, /wp-content/uploads/2021/03/1239x697-300x169.jpg 300w, /wp-content/uploads/2021/03/1239x697-1024x576.jpg 1024w, /wp-content/uploads/2021/03/1239x697-768x432.jpg 768w, /wp-content/uploads/2021/03/1239x697-1000x563.jpg 1000w" sizes="(max-width: 1239px) 100vw, 1239px" /></p></p>
+										<content:encoded><![CDATA[<p><img width="1239" height="697" src="./../../../wp-content/uploads/2021/03/1239x697.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2021/03/1239x697.jpg 1239w, ./../../../wp-content/uploads/2021/03/1239x697-300x169.jpg 300w, ./../../../wp-content/uploads/2021/03/1239x697-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/03/1239x697-768x432.jpg 768w, ./../../../wp-content/uploads/2021/03/1239x697-1000x563.jpg 1000w" sizes="(max-width: 1239px) 100vw, 1239px" /></p></p>
 <p>2 tazas de arróz blanco previamente lavado y escurrido<br />
 1/2 costillar de cerdo de Carnes Santacruz<br />
 2 chorizos cortados en rodajas<br />
@@ -99,14 +99,14 @@ Servir con perejil picado encima
 			</item>
 		<item>
 		<title>PANZA DE CERDO AL HORNO</title>
-		<link>/recetas/panza-de-cerdo-al-horno/</link>
+		<link>./../../../recetas/panza-de-cerdo-al-horno/index.html</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Wed, 03 Mar 2021 13:30:33 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2874</guid>
 
 					<description><![CDATA[2 libras de panza de cerdo en bloque de Carnes Santacruz 2 cucharadas de aceite 3 dientes de ajo finamente picados Tomillo y laurel Forrar una bandeja para el horno con papel aluminio Cortar la grasa de la panza de cerdo en rombos sin cortar del todo la carne Poner panza de cerdo sobre la [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="790" src="/wp-content/uploads/2021/03/pancetaal-horno.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="/wp-content/uploads/2021/03/pancetaal-horno.jpg 1200w, /wp-content/uploads/2021/03/pancetaal-horno-300x198.jpg 300w, /wp-content/uploads/2021/03/pancetaal-horno-1024x674.jpg 1024w, /wp-content/uploads/2021/03/pancetaal-horno-768x506.jpg 768w, /wp-content/uploads/2021/03/pancetaal-horno-1000x658.jpg 1000w" sizes="(max-width: 1200px) 100vw, 1200px" /></p></p>
+										<content:encoded><![CDATA[<p><img width="1200" height="790" src="./../../../wp-content/uploads/2021/03/pancetaal-horno.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2021/03/pancetaal-horno.jpg 1200w, ./../../../wp-content/uploads/2021/03/pancetaal-horno-300x198.jpg 300w, ./../../../wp-content/uploads/2021/03/pancetaal-horno-1024x674.jpg 1024w, ./../../../wp-content/uploads/2021/03/pancetaal-horno-768x506.jpg 768w, ./../../../wp-content/uploads/2021/03/pancetaal-horno-1000x658.jpg 1000w" sizes="(max-width: 1200px) 100vw, 1200px" /></p></p>
 <p>2 libras de panza de cerdo en bloque de Carnes Santacruz<br />
 2 cucharadas de aceite<br />
 3 dientes de ajo finamente picados<br />
@@ -126,14 +126,14 @@ Cortar con un cuchillo de sierra y servir
 			</item>
 		<item>
 		<title>ARROZ ESPCIAL CHINO</title>
-		<link>/recetas/arroz-espcial-chino/</link>
+		<link>./../../../recetas/arroz-espcial-chino/index.html</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Tue, 12 Jan 2021 19:18:46 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2808</guid>
 
 					<description><![CDATA[3 tazas de arroz blanco 1 cucharada de aceite vegetal 2 huevos 1 taza de reíces chinas 1 taza de cebollín cortado en bastones de ½ cm 3 cucharadas de cebolla blanca rallada 1 taza de pollo rostizado sin hueso 1 taza de camarón previamente cocido 1 pernil de cerdo picado en cubos 1/4 de [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="1200" height="799" src="/wp-content/uploads/2021/01/arroz-frito-chino.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="/wp-content/uploads/2021/01/arroz-frito-chino.jpg 1200w, /wp-content/uploads/2021/01/arroz-frito-chino-300x200.jpg 300w, /wp-content/uploads/2021/01/arroz-frito-chino-1024x682.jpg 1024w, /wp-content/uploads/2021/01/arroz-frito-chino-768x511.jpg 768w, /wp-content/uploads/2021/01/arroz-frito-chino-1000x666.jpg 1000w" sizes="(max-width: 1200px) 100vw, 1200px" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="1200" height="799" src="./../../../wp-content/uploads/2021/01/arroz-frito-chino.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2021/01/arroz-frito-chino.jpg 1200w, ./../../../wp-content/uploads/2021/01/arroz-frito-chino-300x200.jpg 300w, ./../../../wp-content/uploads/2021/01/arroz-frito-chino-1024x682.jpg 1024w, ./../../../wp-content/uploads/2021/01/arroz-frito-chino-768x511.jpg 768w, ./../../../wp-content/uploads/2021/01/arroz-frito-chino-1000x666.jpg 1000w" sizes="(max-width: 1200px) 100vw, 1200px" /></p></p>
 <p>3 tazas de arroz blanco<br />
 1 cucharada de aceite vegetal<br />
 2 huevos<br />
@@ -160,14 +160,14 @@ Fritar el huevo sobrante y servir encima con la yema blandita
 			</item>
 		<item>
 		<title>PERNIL NAVIDEÑO AL HORNO</title>
-		<link>/recetas/pernil-navideno-al-horno/</link>
+		<link>./../../../recetas/pernil-navideno-al-horno/index.html</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Sat, 12 Dec 2020 15:35:38 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2777</guid>
 
 					<description><![CDATA[Para el Pernil: 1 pernil de cochino (5 kilos) de Carnes Santacruz 2 tazas jugo de naranja 2 Cebollas grandes 2 Pimentones grandes 7 dientes Ajo 1 cucharadas Salsa Inglesa 5 cucharadas Sal 1 cucharada Orégano 3 cucharadas Azúcar 1 limón Para la salsa: 1/2 taza vino dulce 1/4 cucharadita Pimienta Negra, recién molida; 1 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="1024" height="682" src="/wp-content/uploads/2020/12/pernil-horneado.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="/wp-content/uploads/2020/12/pernil-horneado.jpg 1024w, /wp-content/uploads/2020/12/pernil-horneado-300x200.jpg 300w, /wp-content/uploads/2020/12/pernil-horneado-768x512.jpg 768w, /wp-content/uploads/2020/12/pernil-horneado-1000x666.jpg 1000w" sizes="(max-width: 1024px) 100vw, 1024px" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="1024" height="682" src="./../../../wp-content/uploads/2020/12/pernil-horneado.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2020/12/pernil-horneado.jpg 1024w, ./../../../wp-content/uploads/2020/12/pernil-horneado-300x200.jpg 300w, ./../../../wp-content/uploads/2020/12/pernil-horneado-768x512.jpg 768w, ./../../../wp-content/uploads/2020/12/pernil-horneado-1000x666.jpg 1000w" sizes="(max-width: 1024px) 100vw, 1024px" /></p></p>
 <p>Para el Pernil:<br />
 1 pernil de cochino (5 kilos) de Carnes Santacruz<br />
 2 tazas jugo de naranja<br />
@@ -210,14 +210,14 @@ Dejar reposar el Pernil al menos 2 horas antes de cortarlo.
 			</item>
 		<item>
 		<title>Milanesa de cerdo</title>
-		<link>/recetas/milanesa-de-cerdo/</link>
+		<link>./../../../recetas/milanesa-de-cerdo/index.html</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Sat, 12 Dec 2020 14:39:05 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2769</guid>
 
 					<description><![CDATA[1 taza de harina 1 huevo batido 2 tazas de miga de pan 4 chuletas de cerdo sin hueso en filete de Carnes Santacruz 1 taza de aceite vegetal Sazonar la chulera de cerdo con sal y pimienta Pasar la chuleta por harina cubriéndolas bien, luego por el huevo batido y luego por la miga [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="1200" height="800" src="/wp-content/uploads/2020/12/milan_1G07kl6uSOiJNBFCfv23Zd5WXxe9Rm.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="/wp-content/uploads/2020/12/milan_1G07kl6uSOiJNBFCfv23Zd5WXxe9Rm.jpg 1200w, /wp-content/uploads/2020/12/milan_1G07kl6uSOiJNBFCfv23Zd5WXxe9Rm-300x200.jpg 300w, /wp-content/uploads/2020/12/milan_1G07kl6uSOiJNBFCfv23Zd5WXxe9Rm-1024x683.jpg 1024w, /wp-content/uploads/2020/12/milan_1G07kl6uSOiJNBFCfv23Zd5WXxe9Rm-768x512.jpg 768w, /wp-content/uploads/2020/12/milan_1G07kl6uSOiJNBFCfv23Zd5WXxe9Rm-1000x667.jpg 1000w" sizes="(max-width: 1200px) 100vw, 1200px" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="1200" height="800" src="./../../../wp-content/uploads/2020/12/milan_1G07kl6uSOiJNBFCfv23Zd5WXxe9Rm.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2020/12/milan_1G07kl6uSOiJNBFCfv23Zd5WXxe9Rm.jpg 1200w, ./../../../wp-content/uploads/2020/12/milan_1G07kl6uSOiJNBFCfv23Zd5WXxe9Rm-300x200.jpg 300w, ./../../../wp-content/uploads/2020/12/milan_1G07kl6uSOiJNBFCfv23Zd5WXxe9Rm-1024x683.jpg 1024w, ./../../../wp-content/uploads/2020/12/milan_1G07kl6uSOiJNBFCfv23Zd5WXxe9Rm-768x512.jpg 768w, ./../../../wp-content/uploads/2020/12/milan_1G07kl6uSOiJNBFCfv23Zd5WXxe9Rm-1000x667.jpg 1000w" sizes="(max-width: 1200px) 100vw, 1200px" /></p></p>
 <p>1 taza de harina<br />
 1 huevo batido<br />
 2 tazas de miga de pan<br />
@@ -237,14 +237,14 @@ Se recomienda servir con Puré o verduras
 			</item>
 		<item>
 		<title>TACOS DE CERDO AL PASTOR</title>
-		<link>/recetas/tacos-de-cerdo-al-pastor/</link>
+		<link>./../../../recetas/tacos-de-cerdo-al-pastor/index.html</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Mon, 19 Oct 2020 13:26:30 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2656</guid>
 
 					<description><![CDATA[1 Kilo de paleta de cerdo cortada en tajadas de a ½ centímetro 5 dientes de ajo 1 Cucharadita de orégano 1/2 cucharadita de pimienta 4 chiles en polvo 1/3 de taza de jugo de piña 1 cucharada de paprika 2 cucharadas de pasta de achiote Marinar la carne con los demás ingredientes Poner todo [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="783" height="850" src="/wp-content/uploads/2020/10/Tacos-al-pastor-783x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="783" height="850" src="./../../../wp-content/uploads/2020/10/Tacos-al-pastor-783x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>1 Kilo de paleta de cerdo cortada en tajadas de a ½ centímetro<br />
 5 dientes de ajo<br />
 1 Cucharadita de orégano<br />
@@ -267,14 +267,14 @@ Picar y servir con tortillas de maíz, cebolla y cilantro picados finamente y pi
 			</item>
 		<item>
 		<title>Chicharrones perfectos</title>
-		<link>/recetas/chicharrones-perfectos/</link>
+		<link>./../../../recetas/chicharrones-perfectos/index.html</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Mon, 06 Jul 2020 14:07:39 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2569</guid>
 
 					<description><![CDATA[1 libra de panza de cerdo en bloque de Carnes Santacruz 1 cucharada de azúcar 1 cucharada del sal 1 cucharada de pimienta Masajear y sasonar la libra de panza de cerdo con la sal, pimienta y azúcar Guardar en una bolsa cerrada haciendo vacío, tipo ziploc, con tomillo y laurel En una olla co [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="1500" height="850" src="/wp-content/uploads/2020/07/5140bd3ede2dbd05b0b92b893d29d020-1500x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="1500" height="850" src="./../../../wp-content/uploads/2020/07/5140bd3ede2dbd05b0b92b893d29d020-1500x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>1 libra de panza de cerdo en bloque de Carnes Santacruz<br />
 1 cucharada de azúcar<br />
 1 cucharada del sal<br />
@@ -294,14 +294,14 @@ Servir puedes acompañar con bollo limpio o yuca
 			</item>
 		<item>
 		<title>Pizza dog</title>
-		<link>/recetas/pizza-dog/</link>
+		<link>./../../../recetas/pizza-dog/index.html</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Sun, 31 May 2020 04:59:26 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2507</guid>
 
 					<description><![CDATA[Pan Salchichas de carnes de cerdo de carnes frías Santacruz Salsa Pomodoro Quedo doble crema Orégano fresco Peperoni Asar la salchicha durante 5 minutos hasta que esté dorada Abrir el pan y poner la salchicha cocida Agregar la salsa sobre la salchicha (si está muy líquida, reducirla) Poner queso encima Peperoni opcional encima Hornear a [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="728" height="808" src="/wp-content/uploads/2020/05/f837.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="/wp-content/uploads/2020/05/f837.jpg 728w, /wp-content/uploads/2020/05/f837-270x300.jpg 270w" sizes="(max-width: 728px) 100vw, 728px" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="728" height="808" src="./../../../wp-content/uploads/2020/05/f837.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2020/05/f837.jpg 728w, ./../../../wp-content/uploads/2020/05/f837-270x300.jpg 270w" sizes="(max-width: 728px) 100vw, 728px" /></p></p>
 <p>Pan<br />
 Salchichas de carnes de cerdo de carnes frías Santacruz<br />
 Salsa Pomodoro<br />
@@ -324,14 +324,14 @@ Finalizar con hojas de orégano encima
 			</item>
 		<item>
 		<title>Zaragoza con cerdo</title>
-		<link>/recetas/zaragoza-con-cerdo/</link>
+		<link>./../../../recetas/zaragoza-con-cerdo/index.html</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Mon, 11 May 2020 13:57:31 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2479</guid>
 
 					<description><![CDATA[Medio libra de Zaragozas rojas 1 pimentones rojos 1 cabeza ajo cilantro picado paprika o color comino 1 libra de cerdo de Carnes Santacruz caldo de res ají jalapeño u otro (opcional) 1 tomate Remojar las zaragozas un día antes o una horas antes de la preparación. En este proceso se pueda cambiar el agua [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="1080" height="850" src="/wp-content/uploads/2020/05/CarnesSantaCruz-01-1080x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="1080" height="850" src="./../../../wp-content/uploads/2020/05/CarnesSantaCruz-01-1080x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>Medio libra de Zaragozas rojas<br />
 1 pimentones rojos<br />
 1 cabeza ajo<br />

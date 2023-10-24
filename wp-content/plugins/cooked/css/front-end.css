@@ -86,7 +86,7 @@ body #cooked-plugin-page .fsr-container { overflow: hidden; background-repeat: n
 body #cooked-plugin-page .fsr-image { position: absolute; }
 body #cooked-plugin-page .fsr-hidden { display: none; }
 
-body #cooked-plugin-page .rating, .cooked-widget .rating { width: 108px; height: 20px; margin: 0; padding: 0; background: url(/wp-content/plugins/cooked/css/images/rating_small.png) no-repeat 0 bottom; background-size:108px auto; }
+body #cooked-plugin-page .rating, .cooked-widget .rating { width: 108px; height: 20px; margin: 0; padding: 0; background: url(./images/rating_small.png) no-repeat 0 bottom; background-size:108px auto; }
 body #cooked-plugin-page .rating.rate-5, .cooked-widget .rating.rate-5 { background-position: 0 0; }
 body #cooked-plugin-page .rating.rate-4, .cooked-widget .rating.rate-4 { background-position: 0 -30px; }
 body #cooked-plugin-page .rating.rate-3, .cooked-widget .rating.rate-3 { background-position: 0 -60px; }
@@ -97,14 +97,14 @@ body #cooked-plugin-page .rating span, .cooked-widget .rating span { display:non
 
 .cooked-widget img { max-width:100%; height:auto; }
 
-body #cooked-plugin-page .reviews-section .rating { width: 108px; height: 20px; margin: 0; padding: 0; background: url(/wp-content/plugins/cooked/css/images/rating_small.png) no-repeat 0 bottom; background-size:108px auto; }
+body #cooked-plugin-page .reviews-section .rating { width: 108px; height: 20px; margin: 0; padding: 0; background: url(./images/rating_small.png) no-repeat 0 bottom; background-size:108px auto; }
 body #cooked-plugin-page .reviews-section .rating.rate-5 { background-position: 0 0; }
 body #cooked-plugin-page .reviews-section .rating.rate-4 { background-position: 0 -30px; }
 body #cooked-plugin-page .reviews-section .rating.rate-3 { background-position: 0 -60px; }
 body #cooked-plugin-page .reviews-section .rating.rate-2 { background-position: 0 -90px; }
 body #cooked-plugin-page .reviews-section .rating.rate-1 { background-position: 0 -120px; }
 
-body #cooked-plugin-page .table-layout .rating, .cooked-widget .tiny-rating { width: 72px; height: 13px; margin: 0; padding: 0; background: url(/wp-content/plugins/cooked/css/images/rating-table.png) no-repeat 0 bottom; background-size:72px auto; }
+body #cooked-plugin-page .table-layout .rating, .cooked-widget .tiny-rating { width: 72px; height: 13px; margin: 0; padding: 0; background: url(./images/rating-table.png) no-repeat 0 bottom; background-size:72px auto; }
 body #cooked-plugin-page .table-layout .rating.rate-5, .cooked-widget .tiny-rating.rate-5 { background-position: 0 0; }
 body #cooked-plugin-page .table-layout .rating.rate-4, .cooked-widget .tiny-rating.rate-4 { background-position: 0 -20px; }
 body #cooked-plugin-page .table-layout .rating.rate-3, .cooked-widget .tiny-rating.rate-3 { background-position: 0 -40px; }
@@ -148,7 +148,7 @@ body #cooked-plugin-page #respond form { margin: 0px; }
 body #cooked-plugin-page #respond form p { margin: 0px; }
 body #cooked-plugin-page #respond form textarea { max-width: 100%; resize: none; width: 100%; box-sizing: border-box; margin:0 0 10px; padding:15px; font-size:13px; line-height:1.5; border:1px solid; }
 
-body #cooked-plugin-page .rating-holder { width: 108px; height: 19px; margin: 0; padding: 0; background: url(/wp-content/plugins/cooked/css/images/rating_small.png) no-repeat 0 bottom; background-size:108px auto; }
+body #cooked-plugin-page .rating-holder { width: 108px; height: 19px; margin: 0; padding: 0; background: url(./images/rating_small.png) no-repeat 0 bottom; background-size:108px auto; }
 body #cooked-plugin-page .rating-holder.rate-5 { background-position: 0 0; }
 body #cooked-plugin-page .rating-holder.rate-4 { background-position: 0 -30px; }
 body #cooked-plugin-page .rating-holder.rate-3 { background-position: 0 -60px; }
@@ -158,12 +158,12 @@ body #cooked-plugin-page .rating-holder .rate { width: 20px; height: 20px; float
 body #cooked-plugin-page .rating-holder .rate ~ .rate { padding-left: 2px; }
 body #cooked-plugin-page .rating-holder .rate:hover { cursor: pointer; }
 
-body #cooked-plugin-page .difficulty { display:inline-block; width:19px; height:17px; margin:0 0 0 10px; padding:0; background: url(/wp-content/plugins/cooked/css/images/difficulty.png) no-repeat 0 0; background-size:57px auto; top: 1px; position: relative; }
+body #cooked-plugin-page .difficulty { display:inline-block; width:19px; height:17px; margin:0 0 0 10px; padding:0; background: url(./images/difficulty.png) no-repeat 0 0; background-size:57px auto; top: 1px; position: relative; }
 body #cooked-plugin-page .difficulty.beginner { background-position: 0 0; }
 body #cooked-plugin-page .difficulty.intermediate { background-position: -19px 0; }
 body #cooked-plugin-page .difficulty.advanced { background-position: -38px 0; }
 
-body #cooked-plugin-page .cooked-result-section.table-layout .table-box .cell-title .difficulty { top:0; width:10px; height:10px; background: url(/wp-content/plugins/cooked/css/images/difficulty-table.png) no-repeat 0 0; background-size:30px auto; }
+body #cooked-plugin-page .cooked-result-section.table-layout .table-box .cell-title .difficulty { top:0; width:10px; height:10px; background: url(./images/difficulty-table.png) no-repeat 0 0; background-size:30px auto; }
 body #cooked-plugin-page .cooked-result-section.table-layout .table-box .cell-title .difficulty.beginner { background-position: 0 0; }
 body #cooked-plugin-page .cooked-result-section.table-layout .table-box .cell-title .difficulty.intermediate { background-position: -10px 0; }
 body #cooked-plugin-page .cooked-result-section.table-layout .table-box .cell-title .difficulty.advanced { background-position: -20px 0; }
@@ -560,7 +560,7 @@ body #cooked-profile-page p.cp-form-notice { border:1px solid #E6DB55; border-ra
 #cooked-submit-recipe-form .section-row textarea.field.large { height: 300px; }
 #cooked-submit-recipe-form .section-row .regular-text { display: block; }
 #cooked-submit-recipe-form .section-row .section-title-box {  position: absolute; top: -24px; right: 0; z-index: 99; padding: 4px 10px 5px; -moz-box-shadow:0 2px 0 rgba(0,0,0,0.05); -webkit-box-shadow:0 2px 0 rgba(0,0,0,0.05); box-shadow:0 2px 0 rgba(0,0,0,0.05); border: 1px solid #cccccc; border-radius: 3px; background: #fff; font-size: 13px; line-height: 23px; color: #999999; text-transform: uppercase; font-weight: 700;  }
-#cooked-submit-recipe-form .section-row .section-title-box:after { position: absolute; top: 100%; right: 33px; content: ''; display: block; width: 20px; height: 11px; background: url(/wp-content/plugins/cooked/css/images/bullet-title-arrow.png) no-repeat 0 0; }
+#cooked-submit-recipe-form .section-row .section-title-box:after { position: absolute; top: 100%; right: 33px; content: ''; display: block; width: 20px; height: 11px; background: url(./images/bullet-title-arrow.png) no-repeat 0 0; }
 #cooked-submit-recipe-form .section-row .section-title-box * { display: inline-block; *zoom: 1; vertical-align: middle; padding: 0; margin: 0; }
 #cooked-submit-recipe-form .section-row .section-title-box p { padding: 0 5px; }
 #cooked-submit-recipe-form .section-row .hint-p { padding: 10px 0; margin: 0; font-size: 13px; line-height: 1.7; }
@@ -584,7 +584,7 @@ body #cooked-profile-page p.cp-form-notice { border:1px solid #E6DB55; border-ra
 #cooked-submit-recipe-form .section-row.nutrition .section-col { width:30.5%; margin-right:3%; margin-bottom:25px; }
 #cooked-submit-recipe-form .section-row.nutrition .section-col:nth-child(even) { margin-left:0; }
 #cooked-submit-recipe-form .section-row.nutrition .section-col:nth-child(3n+3) { margin-right:0; }
-#cooked-submit-recipe-form .cp-helper { background: url(/wp-content/plugins/cooked/css/images/tooltip-ico.png) no-repeat 0 0; width: 14px; height: 15px; display: inline-block; position: relative; top: 2px; left: 4px; }
+#cooked-submit-recipe-form .cp-helper { background: url(./images/tooltip-ico.png) no-repeat 0 0; width: 14px; height: 15px; display: inline-block; position: relative; top: 2px; left: 4px; }
 #cooked-submit-recipe-form .field-wrap { position: relative; }
 #cooked-submit-recipe-form .field-wrap label,
 #cooked-submit-recipe-form .field-wrap .field { display: block; width: 100%; height: 35px; padding: 10px 10px; margin: 0; font-size: 14px; line-height: 15px; color: #000; }
