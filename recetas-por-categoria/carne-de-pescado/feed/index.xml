@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>./../../../wp-content/uploads/2016/05/cropped-santacruzlogo-1-32x32.png</url>
@@ -36,7 +36,7 @@
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2929</guid>
 
 					<description><![CDATA[4 paquetes de mariscos 500 gramos de Camarones precocidos. 1 coco pelado y rallado 1lata de leche de coco 1 cubo de caldo de gallina Agua 1 libra de arroz 200 gramos de Alverjas desgranadas 1 pimentón rojo Aceite de oliva 1 ajo Sal Pimienta Poner agua en una olla, la leche de coco, el [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img fetchpriority="high" width="1000" height="664" src="./../../../wp-content/uploads/2022/08/Arroz-con-mariscos-1000x664-1.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2022/08/Arroz-con-mariscos-1000x664-1.jpg 1000w, ./../../../wp-content/uploads/2022/08/Arroz-con-mariscos-1000x664-1-300x199.jpg 300w, ./../../../wp-content/uploads/2022/08/Arroz-con-mariscos-1000x664-1-768x510.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p></p>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" width="1000" height="664" src="./../../../wp-content/uploads/2022/08/Arroz-con-mariscos-1000x664-1.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2022/08/Arroz-con-mariscos-1000x664-1.jpg 1000w, ./../../../wp-content/uploads/2022/08/Arroz-con-mariscos-1000x664-1-300x199.jpg 300w, ./../../../wp-content/uploads/2022/08/Arroz-con-mariscos-1000x664-1-768x510.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p></p>
 <p>4 paquetes de mariscos<br />
 500 gramos de Camarones precocidos.<br />
 1 coco pelado y rallado<br />
@@ -71,7 +71,7 @@ Servir Caliente y añadir rodajas de limón
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2927</guid>
 
 					<description><![CDATA[Filete o pescado de su preferencia 1 Cebolla 3 Limones 1 tomate Pimentón verde Diente de ajo Vino blanco Aceite de oliva Sal Precalentar el horno a 180º C con calor arriba y abajo Cortar los pimentones, tomates y cebolla Picar los ajos Aplicar al pescado limón, sal y ajo Engrasar el recipiente y agregar [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1920" height="850" src="./../../../wp-content/uploads/2021/05/8404-1920x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img decoding="async" width="1920" height="850" src="./../../../wp-content/uploads/2021/05/8404-1920x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>Filete o pescado de su preferencia<br />
 1 Cebolla<br />
 3 Limones<br />
@@ -104,7 +104,7 @@ Dejar reposar por unos minutos y servir
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2925</guid>
 
 					<description><![CDATA[1 lata de atún 5 papas 3 huevos 3 cucharadas aceite 1 cucharada perejil 1 cebolla 1 pimentón Sal Pimienta Cocinar por 15 minutos el atún en un sartén En un sartén sofreír la cebolla y el pimentón Adicionar la papa y agregar agua, cocinar por unos minutos Batir ligeramente los huevos, y cuando la [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1600" height="850" src="./../../../wp-content/uploads/2021/05/P8180172-1600x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img decoding="async" width="1600" height="850" src="./../../../wp-content/uploads/2021/05/P8180172-1600x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>1 lata de atún<br />
 5 papas<br />
 3 huevos<br />
@@ -134,7 +134,7 @@ Batir ligeramente los huevos, y cuando la papa este lista y con la menor cantida
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2766</guid>
 
 					<description><![CDATA[1 taza de pasta cortas (macarrones o tornillos) 2 latas de atún 1/2 cebolla cabezona finamente picada 2 hojas de lechuga fresca partida en trozos 1/2 lata de maíz tierno 1/2 cucharada de aceite de oliva Cocinar la pasta en una olla de manera tradicional (dejar que el agua rompa hervor y agregar la pasta, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="1100" height="729" src="./../../../wp-content/uploads/2020/12/pasta-fusilli.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2020/12/pasta-fusilli.jpg 1100w, ./../../../wp-content/uploads/2020/12/pasta-fusilli-300x199.jpg 300w, ./../../../wp-content/uploads/2020/12/pasta-fusilli-1024x679.jpg 1024w, ./../../../wp-content/uploads/2020/12/pasta-fusilli-768x509.jpg 768w, ./../../../wp-content/uploads/2020/12/pasta-fusilli-1000x663.jpg 1000w" sizes="(max-width: 1100px) 100vw, 1100px" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1100" height="729" src="./../../../wp-content/uploads/2020/12/pasta-fusilli.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2020/12/pasta-fusilli.jpg 1100w, ./../../../wp-content/uploads/2020/12/pasta-fusilli-300x199.jpg 300w, ./../../../wp-content/uploads/2020/12/pasta-fusilli-1024x679.jpg 1024w, ./../../../wp-content/uploads/2020/12/pasta-fusilli-768x509.jpg 768w, ./../../../wp-content/uploads/2020/12/pasta-fusilli-1000x663.jpg 1000w" sizes="(max-width: 1100px) 100vw, 1100px" /></p></p>
 <p>1 taza de pasta cortas (macarrones o tornillos)<br />
 2 latas de atún<br />
 1/2 cebolla cabezona finamente picada<br />
@@ -160,7 +160,7 @@ Agregar sal, pimienta y un chorro de aceite, mezclar y servir
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2632</guid>
 
 					<description><![CDATA[4 mojarras grandes 1 taza de almidón de maíz 1 taza de harina Aceite Sacar el filete de mojarra y cortar en cubos de a centímetro y dejar la piel Salpimentar Pasar por una taza de harina y almidón de maíz Mezclar muy bien y freír a 170 grados Servir y acompañar con limón o [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="535" height="401" src="./../../../wp-content/uploads/2020/09/chich-pesc-done-pq.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2020/09/chich-pesc-done-pq.jpg 535w, ./../../../wp-content/uploads/2020/09/chich-pesc-done-pq-300x225.jpg 300w" sizes="(max-width: 535px) 100vw, 535px" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="535" height="401" src="./../../../wp-content/uploads/2020/09/chich-pesc-done-pq.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2020/09/chich-pesc-done-pq.jpg 535w, ./../../../wp-content/uploads/2020/09/chich-pesc-done-pq-300x225.jpg 300w" sizes="(max-width: 535px) 100vw, 535px" /></p></p>
 <p>4 mojarras grandes<br />
 1 taza de almidón de maíz<br />
 1 taza de harina<br />
@@ -186,7 +186,7 @@ Servir y acompañar con limón o salsa de su preferencia
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2625</guid>
 
 					<description><![CDATA[4 panes para hamburguesa 1/2 lechuga Batavia en juliana 2 tomates en rodajas 3 latas de atún en aceite 2 huevos 3 cucharadas de perejil 1 diente de ajo finamente picado 1/2 taza de miga de pan 1 cuchara de ajo sofrito (Para el alioli crema agria) 1 taza de crema agria (Para el alioli [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="1254" height="836" src="./../../../wp-content/uploads/2020/09/hamburguesadeatunslaudable-1.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2020/09/hamburguesadeatunslaudable-1.jpg 1254w, ./../../../wp-content/uploads/2020/09/hamburguesadeatunslaudable-1-300x200.jpg 300w, ./../../../wp-content/uploads/2020/09/hamburguesadeatunslaudable-1-1024x683.jpg 1024w, ./../../../wp-content/uploads/2020/09/hamburguesadeatunslaudable-1-768x512.jpg 768w, ./../../../wp-content/uploads/2020/09/hamburguesadeatunslaudable-1-1000x667.jpg 1000w" sizes="(max-width: 1254px) 100vw, 1254px" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1254" height="836" src="./../../../wp-content/uploads/2020/09/hamburguesadeatunslaudable-1.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2020/09/hamburguesadeatunslaudable-1.jpg 1254w, ./../../../wp-content/uploads/2020/09/hamburguesadeatunslaudable-1-300x200.jpg 300w, ./../../../wp-content/uploads/2020/09/hamburguesadeatunslaudable-1-1024x683.jpg 1024w, ./../../../wp-content/uploads/2020/09/hamburguesadeatunslaudable-1-768x512.jpg 768w, ./../../../wp-content/uploads/2020/09/hamburguesadeatunslaudable-1-1000x667.jpg 1000w" sizes="(max-width: 1254px) 100vw, 1254px" /></p></p>
 <p>4 panes para hamburguesa<br />
 1/2 lechuga Batavia en juliana<br />
 2 tomates en rodajas<br />
@@ -221,7 +221,7 @@ Mezclar todos los ingredientes (Para el alioli crema agria)
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2114</guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="829" height="830" src="./../../../wp-content/uploads/2019/01/featured_salom.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2019/01/featured_salom.jpg 829w, ./../../../wp-content/uploads/2019/01/featured_salom-150x150.jpg 150w, ./../../../wp-content/uploads/2019/01/featured_salom-300x300.jpg 300w, ./../../../wp-content/uploads/2019/01/featured_salom-768x769.jpg 768w" sizes="(max-width: 829px) 100vw, 829px" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="829" height="830" src="./../../../wp-content/uploads/2019/01/featured_salom.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2019/01/featured_salom.jpg 829w, ./../../../wp-content/uploads/2019/01/featured_salom-150x150.jpg 150w, ./../../../wp-content/uploads/2019/01/featured_salom-300x300.jpg 300w, ./../../../wp-content/uploads/2019/01/featured_salom-768x769.jpg 768w" sizes="(max-width: 829px) 100vw, 829px" /></p></p>
 </p></p>
 ]]></content:encoded>
 					
@@ -237,7 +237,7 @@ Mezclar todos los ingredientes (Para el alioli crema agria)
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=1890</guid>
 
 					<description><![CDATA[4 tazas de arroz 1 kilo de lisa 6 cucharadas de aceite 1 zanahoria picada 500 gramos de papas picadas 2 tomates picados 2 cebollas picadas 2 dientes de ajo picados 200 gramos de habichuelas verdes picadas 8 tazas de agua 2 cubos de concentrado de gallina Sal al gusto Soasar ligeramente el pescado para [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="801" height="800" src="./../../../wp-content/uploads/2018/04/lisa.png" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2018/04/lisa.png 801w, ./../../../wp-content/uploads/2018/04/lisa-150x150.png 150w, ./../../../wp-content/uploads/2018/04/lisa-300x300.png 300w, ./../../../wp-content/uploads/2018/04/lisa-768x767.png 768w" sizes="(max-width: 801px) 100vw, 801px" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="801" height="800" src="./../../../wp-content/uploads/2018/04/lisa.png" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2018/04/lisa.png 801w, ./../../../wp-content/uploads/2018/04/lisa-150x150.png 150w, ./../../../wp-content/uploads/2018/04/lisa-300x300.png 300w, ./../../../wp-content/uploads/2018/04/lisa-768x767.png 768w" sizes="(max-width: 801px) 100vw, 801px" /></p></p>
 <p>4 tazas de arroz<br />
 1 kilo de lisa<br />
 6 cucharadas de aceite<br />
@@ -270,7 +270,7 @@ Cocinar a fuego lento durante 30 minutos, hasta que se seque y servir caliente.
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=1846</guid>
 
 					<description><![CDATA[filetes de róbalo. cucharadita de jugo de limón. cucharadita de vinagre. cucharadita de estragón. huevos batidos. de harina de trigo con sal y pimienta al gusto. taza de miga de pan y aceite para freír. Secar con un limpión los filetes de pescado y adobar con el limón, el vinagre y el estragón. Dejar conservar [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="1601" height="850" src="./../../../wp-content/uploads/2018/02/Róbalo-apanado-1601x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1601" height="850" src="./../../../wp-content/uploads/2018/02/Róbalo-apanado-1601x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>filetes de róbalo.<br />
 cucharadita de jugo de limón.<br />
 cucharadita de vinagre.<br />
@@ -299,7 +299,7 @@ Servir con rodajas de limón y ensaladas al gusto.
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=1845</guid>
 
 					<description><![CDATA[Pescado seco salado Tomate Comino Hojas de Laurel 1/2 Pimentón en tiras 1 Taza de crema de leche 2 Cucharadas de aceite 2 Cebollas largas 3 dientes de ajo Perejil Azafrán 1 Taza de agua Desaguar el pescado desde el día anterior. Picar el pimentón, la cebolla y el ajo. Sofreír el pimentón, la cebolla [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="1000" height="850" src="./../../../wp-content/uploads/2018/02/Pescado-Seco-1000x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" decoding="async" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1000" height="850" src="./../../../wp-content/uploads/2018/02/Pescado-Seco-1000x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>Pescado seco salado<br />
 Tomate<br />
 Comino<br />
