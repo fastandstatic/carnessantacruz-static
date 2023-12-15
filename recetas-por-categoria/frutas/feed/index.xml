@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Frutas &#8211; Carnes Santacruz</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/recetas-por-categoria/frutas/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 19 Oct 2023 19:27:41 +0000</lastBuildDate>
 	<language>es</language>
@@ -18,25 +18,25 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2016/05/cropped-santacruzlogo-1-32x32.png</url>
+	<url>/wp-content/uploads/2016/05/cropped-santacruzlogo-1-32x32.png</url>
 	<title>Frutas &#8211; Carnes Santacruz</title>
-	<link>./../../../index.html</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Guacamole con chips de plátano</title>
-		<link>./../../../recetas/guacamole-con-chips-de-platano/index.html</link>
+		<link>/recetas/guacamole-con-chips-de-platano/</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Thu, 24 Sep 2020 22:24:15 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2628</guid>
 
 					<description><![CDATA[1 aguacate grande maduro 1 cucharada de cilantro 2 limones 1 tomate chonto picado finamente 1 cebolla morada picada finamente 1 diente de ajo picado finamente 1 cucharada de aceite de oliva o vegetal 1 plátano verde Aceite para freír En un bowl poner el aguacate sin cáscara ni pepa y aplastar con un tenedor [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" width="1200" height="675" src="./../../../wp-content/uploads/2020/09/5e9984863a651.jpeg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2020/09/5e9984863a651.jpeg 1200w, ./../../../wp-content/uploads/2020/09/5e9984863a651-300x169.jpeg 300w, ./../../../wp-content/uploads/2020/09/5e9984863a651-1024x576.jpeg 1024w, ./../../../wp-content/uploads/2020/09/5e9984863a651-768x432.jpeg 768w, ./../../../wp-content/uploads/2020/09/5e9984863a651-1000x563.jpeg 1000w" sizes="(max-width: 1200px) 100vw, 1200px" /></p></p>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" width="1200" height="675" src="/wp-content/uploads/2020/09/5e9984863a651.jpeg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="/wp-content/uploads/2020/09/5e9984863a651.jpeg 1200w, /wp-content/uploads/2020/09/5e9984863a651-300x169.jpeg 300w, /wp-content/uploads/2020/09/5e9984863a651-1024x576.jpeg 1024w, /wp-content/uploads/2020/09/5e9984863a651-768x432.jpeg 768w, /wp-content/uploads/2020/09/5e9984863a651-1000x563.jpeg 1000w" sizes="(max-width: 1200px) 100vw, 1200px" /></p></p>
 <p>1 aguacate grande maduro<br />
 1 cucharada de cilantro<br />
 2 limones<br />
@@ -58,14 +58,14 @@ Aparte, cortar el plátano en tajadas finas con unas mandolina o una cuchillo y 
 			</item>
 		<item>
 		<title>Dip de espinaca con moneditas de plátanos</title>
-		<link>./../../../recetas/dip-de-espinaca-con-moneditas-de-platanos/index.html</link>
+		<link>/recetas/dip-de-espinaca-con-moneditas-de-platanos/</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Mon, 03 Aug 2020 14:05:55 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2596</guid>
 
 					<description><![CDATA[1 taza de queso crema 1/2 taza de crema de leche 1 diente de ajo finamente picado 2 tazas de espinaca finamente picada 1 plátano verde Aceite para freír Mezclar el queso crema con la crema de leche para lograr una textura más ligera Sofreír el ajo con la espinaca y agregar a la mezcla [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img decoding="async" width="1080" height="850" src="./../../../wp-content/uploads/2020/08/cefa1593ba0b448f01da8f537710aac4-1080x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img decoding="async" width="1080" height="850" src="/wp-content/uploads/2020/08/cefa1593ba0b448f01da8f537710aac4-1080x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>1 taza de queso crema<br />
 1/2 taza de crema de leche<br />
 1 diente de ajo finamente picado<br />
@@ -85,14 +85,14 @@ Acompañar el dip con el plátano
 			</item>
 		<item>
 		<title>RICAS Y NUTRITIVAS PASTAS CON FRUTAS</title>
-		<link>./../../../recetas/prepara-estas-ricas-y-nutritivas-pastas-con-frutas/index.html</link>
+		<link>/recetas/prepara-estas-ricas-y-nutritivas-pastas-con-frutas/</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Thu, 21 Jul 2016 21:30:09 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=629</guid>
 
 					<description><![CDATA[La combinación perfecta entre lo dulce y saladito. Aquí te enseñamos cómo hacerla.]]></description>
-										<content:encoded><![CDATA[<p><img decoding="async" width="720" height="424" src="./../../../wp-content/uploads/2016/07/frutas-16.png" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2016/07/frutas-16.png 720w, ./../../../wp-content/uploads/2016/07/frutas-16-300x177.png 300w" sizes="(max-width: 720px) 100vw, 720px" /></p><div class="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_boc_animate_when_almost_visible boc_right-to-left vc_custom_1466461398752 wpb_start_animation" style="box-sizing: border-box; border: 0px; font-stretch: inherit; line-height: 27.2px; font-family: Lato, arial, sans-serif; vertical-align: baseline; padding: 0px; opacity: 1; transition: transform 0.7s cubic-bezier(0.26, 0.87, 0.44, 1) 0.25s, opacity 0.6s ease 0.25s; transform: translateY(0px); color: #444444; margin: -10px !important 0px 35px 0px;">
+										<content:encoded><![CDATA[<p><img decoding="async" width="720" height="424" src="/wp-content/uploads/2016/07/frutas-16.png" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="/wp-content/uploads/2016/07/frutas-16.png 720w, /wp-content/uploads/2016/07/frutas-16-300x177.png 300w" sizes="(max-width: 720px) 100vw, 720px" /></p><div class="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_boc_animate_when_almost_visible boc_right-to-left vc_custom_1466461398752 wpb_start_animation" style="box-sizing: border-box; border: 0px; font-stretch: inherit; line-height: 27.2px; font-family: Lato, arial, sans-serif; vertical-align: baseline; padding: 0px; opacity: 1; transition: transform 0.7s cubic-bezier(0.26, 0.87, 0.44, 1) 0.25s, opacity 0.6s ease 0.25s; transform: translateY(0px); color: #444444; margin: -10px !important 0px 35px 0px;">
 <div class="wpb_wrapper" style="box-sizing: border-box; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; margin: 0px; padding: 0px;">
 <div class="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_boc_animate_when_almost_visible boc_right-to-left vc_custom_1466461398752 wpb_start_animation" style="box-sizing: border-box; border: 0px; font-stretch: inherit; line-height: 27.2px; font-family: Lato, arial, sans-serif; vertical-align: baseline; padding: 0px; opacity: 1; transition: transform 0.7s cubic-bezier(0.26, 0.87, 0.44, 1) 0.25s, opacity 0.6s ease 0.25s; transform: translateY(0px); color: #444444; margin: -10px !important 0px 35px 0px;">
 <div class="wpb_wrapper" style="box-sizing: border-box; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; margin: 0px; padding: 0px;">

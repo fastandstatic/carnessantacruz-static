@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Carnes Frias &#8211; Carnes Santacruz</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/recetas-por-categoria/carnes-frias/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 19 Oct 2023 19:26:41 +0000</lastBuildDate>
 	<language>es</language>
@@ -18,25 +18,25 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2016/05/cropped-santacruzlogo-1-32x32.png</url>
+	<url>/wp-content/uploads/2016/05/cropped-santacruzlogo-1-32x32.png</url>
 	<title>Carnes Frias &#8211; Carnes Santacruz</title>
-	<link>./../../../index.html</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>CHUZOS DE CHORIZO Y BUTIFARRA</title>
-		<link>./../../../recetas/chuzos-de-chorizo-y-butifarra/index.html</link>
+		<link>/recetas/chuzos-de-chorizo-y-butifarra/</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Mon, 03 May 2021 16:07:13 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2923</guid>
 
 					<description><![CDATA[Butifarras de Carnes Frias Santacruz Chorizos de Carnes Frias Santacruz Palillos 1 Pimenton rojo 1 Pimenton verde 1 Cebolla blanca Salsa Soya Salsa chimuchurri Ingredientes Salsa Chimichurri: 1 Pimentón verde 1 Cebolla blanca Cilanto al gusto 1 Cabeza de ajo Perejil al gusto Comino Pimienta Sal Oregano seco Aceite de oliva Poner en una olla [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" width="600" height="399" src="./../../../wp-content/uploads/2021/05/chorizos.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2021/05/chorizos.jpg 600w, ./../../../wp-content/uploads/2021/05/chorizos-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p></p>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" width="600" height="399" src="/wp-content/uploads/2021/05/chorizos.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="/wp-content/uploads/2021/05/chorizos.jpg 600w, /wp-content/uploads/2021/05/chorizos-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p></p>
 <p>Butifarras de Carnes Frias Santacruz<br />
 Chorizos de Carnes Frias Santacruz<br />
 Palillos<br />
@@ -70,14 +70,14 @@ Picar finamente todos los ingrediente y agregarlos en una picadora, adicionar el
 			</item>
 		<item>
 		<title>ARROZ DE LENTEJA CON CEBOLLA FRITA</title>
-		<link>./../../../recetas/arroz-de-lenteja-con-cebolla-frita/index.html</link>
+		<link>/recetas/arroz-de-lenteja-con-cebolla-frita/</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Tue, 12 Jan 2021 19:27:00 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2812</guid>
 
 					<description><![CDATA[2 tazas de lentejas 1 taza de arroz 1 cebolla blanca en julianas finas 3 tazas de agua 4 cucharadas de aceite de oliva 1 cebolla ocañera cortada en julianas 1 cucharada de fécula de maíz En una olla grande hervir las lentejas con 3 tazas de agua con sal por 20 minutos Aparte hacer [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img decoding="async" width="1000" height="850" src="./../../../wp-content/uploads/2021/01/e0094c4981d69f0890f5cf814d2164a2-1000x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img decoding="async" width="1000" height="850" src="/wp-content/uploads/2021/01/e0094c4981d69f0890f5cf814d2164a2-1000x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>2 tazas de lentejas<br />
 1 taza de arroz<br />
 1 cebolla blanca en julianas finas<br />
@@ -100,14 +100,14 @@ Decorar el plato con cebollitas fritas
 			</item>
 		<item>
 		<title>PURÉ DE PAPA PERFECTO</title>
-		<link>./../../../recetas/pure-de-papa-perfecto/index.html</link>
+		<link>/recetas/pure-de-papa-perfecto/</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Tue, 12 Jan 2021 19:21:54 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2809</guid>
 
 					<description><![CDATA[5 papas pastusas peladas y cortadas en cuatro partes 1 ¼ de taza de mantequilla 1/2 de leche 1 pizca de nuez moscada Hervir las papas a partir de agua fría Agregar sal y dejar cocinar hasta que estén blandas en el centro (con un cuchillo delgado pincharlas y, al salir suave del cuchillo, éste [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img decoding="async" width="1600" height="850" src="./../../../wp-content/uploads/2021/01/6c7b4c27775404485cefb56184269545-1600x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img decoding="async" width="1600" height="850" src="/wp-content/uploads/2021/01/6c7b4c27775404485cefb56184269545-1600x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>5 papas pastusas peladas y cortadas en cuatro partes<br />
 1 ¼ de taza de mantequilla<br />
 1/2 de leche<br />
@@ -125,14 +125,14 @@ Agregar la mantequilla y la leche </p></p>
 			</item>
 		<item>
 		<title>PASTAS AL PESTO CON AGUACATE</title>
-		<link>./../../../recetas/pastas-al-pesto-con-aguacate/index.html</link>
+		<link>/recetas/pastas-al-pesto-con-aguacate/</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Mon, 19 Oct 2020 13:24:20 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2654</guid>
 
 					<description><![CDATA[1 libra de spagjetti 1 aguacate maduro 1 taza de albahaca blanqueada (pasa por agua hirviendo 10 segundo y luego por agua fria) 1 limón En una olla poner a hervir la pasta con abundante agua con sal En una licuadora agregar el aguacate sin pepa y cáscara, sal, pimienta, jugo de 1 limón y [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1100" height="729" src="./../../../wp-content/uploads/2020/10/receta-vegana-pasta_pesto_aguacate.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2020/10/receta-vegana-pasta_pesto_aguacate.jpg 1100w, ./../../../wp-content/uploads/2020/10/receta-vegana-pasta_pesto_aguacate-300x199.jpg 300w, ./../../../wp-content/uploads/2020/10/receta-vegana-pasta_pesto_aguacate-1024x679.jpg 1024w, ./../../../wp-content/uploads/2020/10/receta-vegana-pasta_pesto_aguacate-768x509.jpg 768w, ./../../../wp-content/uploads/2020/10/receta-vegana-pasta_pesto_aguacate-1000x663.jpg 1000w" sizes="(max-width: 1100px) 100vw, 1100px" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1100" height="729" src="/wp-content/uploads/2020/10/receta-vegana-pasta_pesto_aguacate.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="/wp-content/uploads/2020/10/receta-vegana-pasta_pesto_aguacate.jpg 1100w, /wp-content/uploads/2020/10/receta-vegana-pasta_pesto_aguacate-300x199.jpg 300w, /wp-content/uploads/2020/10/receta-vegana-pasta_pesto_aguacate-1024x679.jpg 1024w, /wp-content/uploads/2020/10/receta-vegana-pasta_pesto_aguacate-768x509.jpg 768w, /wp-content/uploads/2020/10/receta-vegana-pasta_pesto_aguacate-1000x663.jpg 1000w" sizes="(max-width: 1100px) 100vw, 1100px" /></p></p>
 <p>1 libra de spagjetti<br />
 1 aguacate maduro<br />
 1 taza de albahaca blanqueada (pasa por agua hirviendo 10 segundo y luego por agua fria)<br />
@@ -149,14 +149,14 @@ Servir
 			</item>
 		<item>
 		<title>Choripan</title>
-		<link>./../../../recetas/choripan/index.html</link>
+		<link>/recetas/choripan/</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Mon, 03 Aug 2020 14:47:22 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2602</guid>
 
 					<description><![CDATA[Pan baguette Chorizo de cerdo cortado por la mitad a lo largo sin hacer el corte completo para que no se abra en su totalidad Lonjas de queso doble crema Cucharadas de chimichurri Dorar sobre una plancha el chorizo Cortar el pan por la mitad y tostarlo en la plancha, con la parte interior hacia [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="706" height="470" src="./../../../wp-content/uploads/2020/08/choripan-argentino.jpeg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2020/08/choripan-argentino.jpeg 706w, ./../../../wp-content/uploads/2020/08/choripan-argentino-300x200.jpeg 300w" sizes="(max-width: 706px) 100vw, 706px" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="706" height="470" src="/wp-content/uploads/2020/08/choripan-argentino.jpeg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="/wp-content/uploads/2020/08/choripan-argentino.jpeg 706w, /wp-content/uploads/2020/08/choripan-argentino-300x200.jpeg 300w" sizes="(max-width: 706px) 100vw, 706px" /></p></p>
 <p>Pan baguette<br />
 Chorizo de cerdo cortado por la mitad a lo largo sin hacer el corte completo para que no se abra en su totalidad<br />
 Lonjas de queso doble crema<br />
@@ -173,14 +173,14 @@ Agregar chimichirri en el plan, poner el chorizo, cubrirlo con chimichurri adici
 			</item>
 		<item>
 		<title>Patacón rallado con hogao</title>
-		<link>./../../../recetas/patacon-rallado-con-hogao/index.html</link>
+		<link>/recetas/patacon-rallado-con-hogao/</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Mon, 03 Aug 2020 14:18:35 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2600</guid>
 
 					<description><![CDATA[2 plátanos verdes 3 tomates chontos picados 1 cebolla blanca picada 3 dientes de ajo finamente picados 1 aguacate hass cortado en láminas 1 taza de queso campesino rallado Tomillo y laurel Rallar el plátano por el lado grueso del rallador, agegar unas gotas de agua y con la mano formar los patacones (importante que [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1920" height="850" src="./../../../wp-content/uploads/2020/08/30a5e867bc5b769322bce4e45513efef-1920x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1920" height="850" src="/wp-content/uploads/2020/08/30a5e867bc5b769322bce4e45513efef-1920x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>2 plátanos verdes<br />
 3 tomates chontos picados<br />
 1 cebolla blanca picada<br />
@@ -201,14 +201,14 @@ Cuando el patacón esté listo, poner encima un poco de hogado, una lámina de a
 			</item>
 		<item>
 		<title>Dip de espinaca con moneditas de plátanos</title>
-		<link>./../../../recetas/dip-de-espinaca-con-moneditas-de-platanos/index.html</link>
+		<link>/recetas/dip-de-espinaca-con-moneditas-de-platanos/</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Mon, 03 Aug 2020 14:05:55 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2596</guid>
 
 					<description><![CDATA[1 taza de queso crema 1/2 taza de crema de leche 1 diente de ajo finamente picado 2 tazas de espinaca finamente picada 1 plátano verde Aceite para freír Mezclar el queso crema con la crema de leche para lograr una textura más ligera Sofreír el ajo con la espinaca y agregar a la mezcla [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1080" height="850" src="./../../../wp-content/uploads/2020/08/cefa1593ba0b448f01da8f537710aac4-1080x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1080" height="850" src="/wp-content/uploads/2020/08/cefa1593ba0b448f01da8f537710aac4-1080x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>1 taza de queso crema<br />
 1/2 taza de crema de leche<br />
 1 diente de ajo finamente picado<br />
@@ -228,14 +228,14 @@ Acompañar el dip con el plátano
 			</item>
 		<item>
 		<title>Quesadillas</title>
-		<link>./../../../recetas/quesadillas/index.html</link>
+		<link>/recetas/quesadillas/</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Mon, 06 Jul 2020 14:04:44 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2567</guid>
 
 					<description><![CDATA[10 tortillas de harina 1/2 tza de quedo doble crema rallado 5 chorizos picados en cubos de Carnes Frías Santacruz 2 tomates chonto picados 1 diente de ajo finamente picado 1 cebolla roja finamente picada Limón en cascos al gusto Sofreir el chorizo hasta dorarlo Agregar la cebolla, tomate y ajo en un sartén a [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1463" height="850" src="./../../../wp-content/uploads/2020/07/chicken-and-avocado-quesadillas-1463x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1463" height="850" src="/wp-content/uploads/2020/07/chicken-and-avocado-quesadillas-1463x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>10 tortillas de harina<br />
 1/2 tza de quedo doble crema rallado<br />
 5 chorizos picados en cubos de Carnes Frías Santacruz<br />
@@ -254,14 +254,14 @@ Servir con cascos de limón</p></p>
 			</item>
 		<item>
 		<title>Arroz meloso de chorizo</title>
-		<link>./../../../recetas/arroz-meloso-de-chorizo/index.html</link>
+		<link>/recetas/arroz-meloso-de-chorizo/</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Mon, 06 Jul 2020 14:01:33 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2565</guid>
 
 					<description><![CDATA[2 cucharadas de aceite 5 cebollas ocañeras o 2 rojas picadas 1 cabeza de ajo procesada 1 cucharada de aceite 300 gramos de chorizo cortado finamente de Carnes Frías Santacruz 1 manojo de perejil liso finamente picado 1 litro de fondo de pollo 6 tomates chontos muy maduros rallados 300 gramos de arroz previamente lavado [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1105" height="850" src="./../../../wp-content/uploads/2020/07/arroz-1105x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="1105" height="850" src="/wp-content/uploads/2020/07/arroz-1105x850.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" /></p></p>
 <p>2 cucharadas de aceite<br />
 5 cebollas ocañeras o 2 rojas picadas<br />
 1 cabeza de ajo procesada<br />
@@ -288,14 +288,14 @@ Servir en la olla y poner el perejil picado finamente
 			</item>
 		<item>
 		<title>Pizza dog</title>
-		<link>./../../../recetas/pizza-dog/index.html</link>
+		<link>/recetas/pizza-dog/</link>
 		
 		<dc:creator><![CDATA[eme agencia digital]]></dc:creator>
 		<pubDate>Sun, 31 May 2020 04:59:26 +0000</pubDate>
 				<guid isPermaLink="false">http://www.carnessantacruz.co/?post_type=cp_recipe&#038;p=2507</guid>
 
 					<description><![CDATA[Pan Salchichas de carnes de cerdo de carnes frías Santacruz Salsa Pomodoro Quedo doble crema Orégano fresco Peperoni Asar la salchicha durante 5 minutos hasta que esté dorada Abrir el pan y poner la salchicha cocida Agregar la salsa sobre la salchicha (si está muy líquida, reducirla) Poner queso encima Peperoni opcional encima Hornear a [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="728" height="808" src="./../../../wp-content/uploads/2020/05/f837.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="./../../../wp-content/uploads/2020/05/f837.jpg 728w, ./../../../wp-content/uploads/2020/05/f837-270x300.jpg 270w" sizes="(max-width: 728px) 100vw, 728px" /></p></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" width="728" height="808" src="/wp-content/uploads/2020/05/f837.jpg" class="attachment-cp_960_425 size-cp_960_425 wp-post-image" alt="" style="max-width:100%; width:100%; height:auto; display:block;" srcset="/wp-content/uploads/2020/05/f837.jpg 728w, /wp-content/uploads/2020/05/f837-270x300.jpg 270w" sizes="(max-width: 728px) 100vw, 728px" /></p></p>
 <p>Pan<br />
 Salchichas de carnes de cerdo de carnes frías Santacruz<br />
 Salsa Pomodoro<br />
