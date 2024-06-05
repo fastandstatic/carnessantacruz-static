@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.carnessantacruz.co/sitemap-index.xml
+Sitemap: https://www.carnessantacruz.co/sitemap-index-1.xml
+Sitemap: https://www.carnessantacruz.co/sitemap.xml
