@@ -51,6 +51,7 @@
 
 			$scope
 				.on( 'jet-filter-content-rendered', JetEngine.calendarCache.clear )
+				.on( 'change.JetEngine', '.jet-calendar-caption__date-select', JetEngine.selectCalendarMonth )
 				.on( 'click.JetEngine', '.jet-calendar-nav__link', JetEngine.switchCalendarMonth )
 				.on( 'click.JetEngine', '.jet-calendar-week__day-mobile-overlay', JetEngine.showCalendarEvent )
 				.on( 'click.JetEngine', '.jet-listing-dynamic-link__link[data-delete-link="1"]', JetEngine.showConfirmDeleteDialog )
@@ -1264,11 +1265,7 @@
 					}
 
 					// Re-init Bricks scripts
-					if ( window.bricksIsFrontend ) {
-						document.dispatchEvent(
-							new CustomEvent("bricks/ajax/query_result/displayed")
-						);
-					}
+					JetEngine.reinitBricksScripts();
 
 					Promise.all( JetEngine.assetsPromises ).then( function() {
 						JetEngine.initElementsHandlers( $html );
@@ -1350,7 +1347,7 @@
 						return;
 					}
 
-					if ( this.page === this.pages && ! window.elementor ) {
+					if ( ! this.pages || this.page === this.pages && ! window.elementor ) {
 						$button.css( 'display', 'none' );
 					} else {
 						$button.removeAttr( 'style' );
@@ -1360,6 +1357,11 @@
 						.off( 'click', this.settings.more_el )
 						.on( 'click', this.settings.more_el, function( event ) {
 							event.preventDefault();
+
+							if ( ! self.pages || self.page >= self.pages) {
+								$button.css( 'display', 'none' );
+								return;
+							}
 
 							$button.css( {
 								pointerEvents: 'none',
@@ -1386,7 +1388,7 @@
 						return;
 					}
 
-					if ( this.page === this.pages ) {
+					if ( ! this.pages || this.page === this.pages ) {
 						return;
 					}
 
@@ -2126,6 +2128,38 @@
 			},
 		},
 
+		selectCalendarMonth: function ( $event ) {
+			let wrapper = this.closest( '.jet-calendar-caption__dates' );
+
+			if ( ! JetEngine.updateDateSelectLabels( wrapper ) ) {
+				return;
+			}
+
+			JetEngine.switchCalendarMonth.bind( wrapper )()
+		},
+
+		updateDateSelectLabels: function( wrapper ) {
+			let month = wrapper.querySelector( '.jet-calendar-caption__date-select.select-month' ),
+			    year = wrapper.querySelector( '.jet-calendar-caption__date-select.select-year' );
+
+			if ( ! month || ! year ) {
+				return false;
+			}
+
+			let monthLabel = wrapper.querySelector( '.jet-calendar-caption__date-select-label.select-month' ),
+				yearLabel = wrapper.querySelector( '.jet-calendar-caption__date-select-label.select-year' );
+
+			wrapper.setAttribute( 'data-month', month.value + ' ' + year.value );
+
+			const monthOption = month.querySelector( `option[value="${month.value}"]` ),
+			      yearOption = year.querySelector( `option[value="${year.value}"]` );
+
+			monthLabel.innerHTML = monthOption.innerHTML;
+			yearLabel.innerHTML = yearOption.innerHTML;
+
+			return true;
+		},
+
 		switchCalendarMonth: function( $event ) {
 
 			var $this     = $( this ),
@@ -2168,6 +2202,13 @@
 				
 				JetEngine.calendarCache.deleteExpiredEntries( cacheId, cacheTimeout );
 
+				// Remove the 'listening' and 'brx-open' classes from all matched elements to prevent
+				// reinitialization issues in the accordion.
+				if ( window.bricksIsFrontend ) {
+					$calendar.find('.accordion-item.listening, .brxe-accordion-nested > .listening')
+						.removeClass('listening brx-open');
+				}
+
 				JetEngine.calendarCache.update( cacheId, settings['prev_month'], $calendar.prop('outerHTML'), settings );
 
 				const cached = JetEngine.calendarCache.get( cacheId, month );
@@ -2177,6 +2218,11 @@
 					replacement.removeClass( 'jet-calendar-loading' );
 					$calendar.replaceWith( replacement[0] );
 					JetEngine.initElementsHandlers( $widget );
+					JetEngine.updateDateSelectLabels( $widget[0] );
+					// Re-init Bricks scripts
+					JetEngine.reinitBricksScripts();
+
+					$( document ).trigger( 'jet-engine-request-calendar-cached', [ $widget ] );
 
 					return;
 				}
@@ -2207,6 +2253,10 @@
 					}
 
 					JetEngine.initElementsHandlers( $widget );
+					// Re-init Bricks scripts
+					JetEngine.reinitBricksScripts();
+
+					$( document ).trigger( 'jet-engine-request-calendar-done', [ $widget ] );
 				}
 				$calendar.removeClass( 'jet-calendar-loading' );
 			} );
@@ -2443,6 +2493,14 @@
 			return true;
 		},
 
+		reinitBricksScripts: function() {
+			if ( window.bricksIsFrontend ) {
+				document.dispatchEvent(
+					new CustomEvent("bricks/ajax/query_result/displayed")
+				);
+			}
+		},
+
 		filters: ( function() {
 
 			var callbacks = {};
@@ -2494,7 +2552,7 @@
 	JetEngine.commonInit();
 
 	window.addEventListener( 'DOMContentLoaded', function() {
-		JetEngine.initBlocks();
+		setTimeout( () => JetEngine.initBlocks() );
 		JetEngine.initDone = true;
 	} );
 
