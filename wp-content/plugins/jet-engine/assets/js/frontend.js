@@ -2074,6 +2074,10 @@
 					return;
 				}
 
+				if ( ! window.JetSmartFilterSettings.settings['jet-engine-calendar'] ) {
+					return;
+				}
+
 				monthData = monthData.split( ' ' );
 
 				const month = monthData[0],
@@ -2103,7 +2107,7 @@
 						}
 
 						for ( const id in window.JetSmartFilterSettings.settings['jet-engine-calendar'] ) {
-							if ( window.JetSmartFilterSettings.settings['jet-engine-calendar'][ id ]._id === widgetId ) {
+							if ( window.JetSmartFilterSettings.settings['jet-engine-calendar'][ id ]?._id === widgetId ) {
 								window.JetSmartFilterSettings.settings['jet-engine-calendar'][ id ]['start_from_month'] = month;
 								window.JetSmartFilterSettings.settings['jet-engine-calendar'][ id ]['start_from_year'] = year;
 								break;
@@ -2118,7 +2122,7 @@
 							widgetId = 'default';
 						}
 
-						if ( window.JetSmartFilterSettings.settings['jet-engine-calendar'][ widgetId ] ) {
+						if ( window.JetSmartFilterSettings.settings['jet-engine-calendar']?.[ widgetId ] ) {
 							window.JetSmartFilterSettings.settings['jet-engine-calendar'][ widgetId ]['start_from_month'] = month;
 							window.JetSmartFilterSettings.settings['jet-engine-calendar'][ widgetId ]['start_from_year'] = year;
 						}
